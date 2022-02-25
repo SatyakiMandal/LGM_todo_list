@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LGM_todo_list/static/css/main.7f642599.css",
+    "main.js": "/LGM_todo_list/static/js/main.81e63d96.js",
+    "index.html": "/LGM_todo_list/index.html",
+    "main.7f642599.css.map": "/LGM_todo_list/static/css/main.7f642599.css.map",
+    "main.81e63d96.js.map": "/LGM_todo_list/static/js/main.81e63d96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f642599.css",
+    "static/js/main.81e63d96.js"
+  ]
+}
